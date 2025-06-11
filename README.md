@@ -1,2 +1,2 @@
-# CCP
-A simulation of GoGo Coffee Cafe using Java concurrency
+# Abstract
+This project explores the simulation of GoGo Coffee Cafe using Java concurrency to replicate real-life interactions between customers and baristas. It incorporates core concurrency principles—including threads, synchronization, semaphores, atomic variables, and concurrent data structures—to manage order handling, shared resource access, and customer behavior. The simulation reflects real-world complexities such as limited seating, exclusive machine usage for drink preparation, and individual seating preferences. Overall, the project illustrates how concurrent programming can effectively model dynamic, real-time environments while emphasizing its role in optimizing resource management and enhancing user experience.
